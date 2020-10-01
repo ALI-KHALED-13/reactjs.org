@@ -1,12 +1,12 @@
 ---
-id: lists-and-keys
-title: Lists and Keys
-permalink: docs/lists-and-keys.html
+id: Arrays-and-keys
+title: Arrays and Keys
+permalink: docs/Arrays-and-keys.html
 prev: conditional-rendering.html
 next: forms.html
 ---
 
-First, let's review how you transform lists in JavaScript.
+First, let's review how you transform arrays in JavaScript.
 
 Given the code below, we use the [`map()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) function to take an array of `numbers` and double their values. We assign the new array returned by `map()` to the variable `doubled` and log it:
 
